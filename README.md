@@ -194,7 +194,9 @@ status /var/log/openvpn-status.log
 log /var/log/openvpn.log
 verb 3
 [root@server ~]# 
+```
 
+```
 [root@client ~]# cat /etc/openvpn/client.conf 
 dev tap
 remote 192.168.10.10
