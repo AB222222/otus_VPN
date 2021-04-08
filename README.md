@@ -1,6 +1,6 @@
 # otus_VPN
 
-Первая часть ДЗ (tun и tap)/
+Первая часть ДЗ (tun и tap).
 
 Статический ключ генерим командой openvpn --genkey --secret mystatic.key
 
